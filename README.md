@@ -1,7 +1,7 @@
-#----------------------------#
-# application_timer_tutorial #
-# Created: 11-23-2018        #
-#----------------------------#
+/----------------------------/
+/ application_timer_tutorial /
+/ Created: 11-23-2018        /
+/----------------------------/
 
 This project intended to be used in SDK 15.2 part of the Application Timer Tutorial located on Nordic DevZone
 under Tutorials (https://devzone.nordicsemi.com/tutorials/b/software-development-kit/posts/application-timer-tutorial).
